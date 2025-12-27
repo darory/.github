@@ -20,5 +20,8 @@ We build scalable, real-world software systems for businesses.
 - Clean architecture
 - Business-first development
 
-📞 Contact: info@darory.com
+## Contact
+📧 Email: info@darory.com  
+📞 Phone: +20 102 298 3211  
+💬 WhatsApp: https://wa.me/201022983211  
 🌍 Website: https://darory.com
